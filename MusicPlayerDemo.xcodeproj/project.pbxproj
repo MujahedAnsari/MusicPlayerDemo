@@ -13,6 +13,7 @@
 		55880F3D2590483D00151E3A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55880F3B2590483D00151E3A /* Main.storyboard */; };
 		55880F3F2590483D00151E3A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55880F3E2590483D00151E3A /* Assets.xcassets */; };
 		55880F422590483D00151E3A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55880F402590483D00151E3A /* LaunchScreen.storyboard */; };
+		55880F4B259048E400151E3A /* findPhoneRingtune.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 55880F4A259048E400151E3A /* findPhoneRingtune.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		55880F3E2590483D00151E3A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		55880F412590483D00151E3A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		55880F432590483D00151E3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		55880F4A259048E400151E3A /* findPhoneRingtune.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = findPhoneRingtune.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		55880F342590483D00151E3A /* MusicPlayerDemo */ = {
 			isa = PBXGroup;
 			children = (
+				55880F4A259048E400151E3A /* findPhoneRingtune.mp3 */,
 				55880F352590483D00151E3A /* AppDelegate.swift */,
 				55880F372590483D00151E3A /* SceneDelegate.swift */,
 				55880F392590483D00151E3A /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			files = (
 				55880F422590483D00151E3A /* LaunchScreen.storyboard in Resources */,
 				55880F3F2590483D00151E3A /* Assets.xcassets in Resources */,
+				55880F4B259048E400151E3A /* findPhoneRingtune.mp3 in Resources */,
 				55880F3D2590483D00151E3A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
